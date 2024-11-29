@@ -1,6 +1,39 @@
 {
     "systems": [
       {
+        "title": "Grappling Hook System",
+        "description": "A physics-based grappling hook system allowing players to swing, pull, and traverse the environment dynamically.",
+        "features": [
+          "Physics-based rope mechanics",
+          "Multiple attachment points",
+          "Momentum conservation",
+          "Adjustable rope length"
+        ],
+        "image": "https://images.unsplash.com/photo-1534120247760-c44c3e4a62f1?w=800&auto=format&fit=crop&q=60"
+      },
+      {
+        "title": "Flight System",
+        "description": "A versatile flight system with smooth controls and dynamic movement capabilities.",
+        "features": [
+          "Adjustable flight speed",
+          "Height limitations",
+          "Energy management",
+          "Smooth transitions"
+        ],
+        "image": "https://images.unsplash.com/photo-1517960413843-0aee8e2b3285?w=800&auto=format&fit=crop&q=60"
+      },
+      {
+        "title": "Jump Pad System",
+        "description": "An interactive jump pad system that launches players with precise control and predictable trajectories.",
+        "features": [
+          "Customizable launch force",
+          "Direction control",
+          "Landing prediction",
+          "Chain-jump support"
+        ],
+        "image": "https://images.unsplash.com/photo-1599586120429-48281b6f0ece?w=800&auto=format&fit=crop&q=60"
+      },
+      {
         "title": "Advanced Combat System",
         "description": "A flexible and responsive combat system with customizable abilities, combos, and effects.",
         "features": [
@@ -36,35 +69,14 @@
     ],
     "projects": [
       {
-        "title": "Zombie Defense Game",
-        "description": "A thrilling tower defense game where players strategically place defenses to protect against waves of zombies.",
+        "title": "White Horizon",
+        "description": "A monochromatic adventure game set in a striking black and white world. Players navigate through minimalist landscapes using dynamic movement mechanics including grappling hooks, flight systems, and jump pads.",
         "media": {
           "type": "image",
-          "url": "https://images.unsplash.com/photo-1614465000772-1b302f406c47?w=800&auto=format&fit=crop&q=60"
+          "url": "https://images.unsplash.com/photo-1482160549825-59d1b23cb208?w=800&auto=format&fit=crop&q=60"
         },
-        "tags": ["Roblox", "Luau", "Game Design"],
+        "tags": ["Roblox", "Movement Systems", "Minimalist Design", "Physics"],
         "link": "https://www.roblox.com/games/example1"
-      },
-      {
-        "title": "Racing Simulator",
-        "description": "High-speed racing game with realistic physics and customizable vehicles.",
-        "media": {
-          "type": "video",
-          "url": "https://player.vimeo.com/video/123456789",
-          "thumbnail": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=800&auto=format&fit=crop&q=60"
-        },
-        "tags": ["Roblox", "Physics", "Multiplayer"],
-        "link": "https://www.roblox.com/games/example2"
-      },
-      {
-        "title": "RPG Adventure",
-        "description": "An immersive role-playing game with quests, character progression, and dynamic combat.",
-        "media": {
-          "type": "image",
-          "url": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800&auto=format&fit=crop&q=60"
-        },
-        "tags": ["Roblox", "RPG", "Game Systems"],
-        "link": "https://www.roblox.com/games/example3"
       }
     ]
   } 
