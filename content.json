@@ -184,22 +184,14 @@
       },
       {
         "title": "Potions Legend",
-        "description": "Un simulateur unique de création de potions où les joueurs fabriquent des potions magiques pour générer du Mana, qui peut être vendu contre des Pièces. Comprend un système de familiers où des compagnons assistent à la production et à la collecte de potions.",
+        "description": "Un simulateur de potions où les joueurs achétent des potions magiques pour générer du Mana, qui peut être vendu contre des Pièces. Comprend un système de familiers où des compagnons assistent à la production et à la collecte de potions.",
         "media": {
           "type": "image",
           "url": "https://tr.rbxcdn.com/180DAY-deb48436bdeefbb519057619530f5311/768/432/Image/Webp/noFilter"
         },
         "tags": ["Roblox", "Simulateur", "Familiers", "Artisanat", "Magie"],
         "link": "https://www.roblox.com/games/5852058538/UPDATE-0-1-Potions-Legends",
-        "creator": "ConstantDevs",
-        "features": [
-          "Système dynamique de création de potions",
-          "Mécaniques d'éclosion et de collection de familiers",
-          "Gameplay de gestion de ressources",
-          "Mises à jour régulières du contenu",
-          "Fonctionnalités sociales et échange"
-        ],
-        "releaseDate": "26 Décembre 2020"
+        "creator": "Moi-même"
       }
     ]
   }
