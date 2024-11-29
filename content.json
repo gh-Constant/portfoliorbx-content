@@ -45,6 +45,17 @@
         "tags": ["Roblox", "Movement Systems", "Minimalist Design", "Physics"],
         "link": "https://www.roblox.com/games/example1",
         "creator": "Jawaw"
+      },
+      {
+        "title": "Amethyst Realms",
+        "description": "An immersive MMORPG featuring full-loot PvP combat, where players battle for supremacy in a dangerous world filled with valuable resources and powerful artifacts.",
+        "media": {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1518562180175-34a163b1a9a6?w=800&auto=format&fit=crop&q=60"
+        },
+        "tags": ["Roblox", "MMORPG", "PvP", "Full-Loot", "Combat"],
+        "link": "https://www.roblox.com/games/example2",
+        "creator": "Myself"
       }
     ]
   } 
