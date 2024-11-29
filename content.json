@@ -79,6 +79,25 @@
         "tags": ["Roblox", "Roleplay", "Anime", "Combat", "Ninja"],
         "link": "https://www.roblox.com/games/example3",
         "creator": "Joyboy"
+      },
+      {
+        "title": "Potions Legend",
+        "description": "A unique potion-brewing simulator where players craft magical potions to generate Mana, which can be sold for Coins. Features an engaging pet system where companions assist in potion production and collection.",
+        "media": {
+          "type": "image",
+          "url": "https://tr.rbxcdn.com/180DAY-deb48436bdeefbb519057619530f5311/768/432/Image/Webp/noFilter"
+        },
+        "tags": ["Roblox", "Simulator", "Pets", "Crafting", "Magic"],
+        "link": "https://www.roblox.com/games/5852058538/UPDATE-0-1-Potions-Legends",
+        "creator": "ConstantDevs",
+        "features": [
+          "Dynamic potion brewing system",
+          "Pet hatching and collection mechanics",
+          "Resource management gameplay",
+          "Regular content updates",
+          "Social features and trading"
+        ],
+        "releaseDate": "December 26, 2020"
       }
     ]
   },
@@ -162,6 +181,25 @@
         "tags": ["Roblox", "Jeu de Rôle", "Anime", "Combat", "Ninja"],
         "link": "https://www.roblox.com/games/example3",
         "creator": "Joyboy"
+      },
+      {
+        "title": "Potions Legend",
+        "description": "Un simulateur unique de création de potions où les joueurs fabriquent des potions magiques pour générer du Mana, qui peut être vendu contre des Pièces. Comprend un système de familiers où des compagnons assistent à la production et à la collecte de potions.",
+        "media": {
+          "type": "image",
+          "url": "https://tr.rbxcdn.com/180DAY-deb48436bdeefbb519057619530f5311/768/432/Image/Webp/noFilter"
+        },
+        "tags": ["Roblox", "Simulateur", "Familiers", "Artisanat", "Magie"],
+        "link": "https://www.roblox.com/games/5852058538/UPDATE-0-1-Potions-Legends",
+        "creator": "ConstantDevs",
+        "features": [
+          "Système dynamique de création de potions",
+          "Mécaniques d'éclosion et de collection de familiers",
+          "Gameplay de gestion de ressources",
+          "Mises à jour régulières du contenu",
+          "Fonctionnalités sociales et échange"
+        ],
+        "releaseDate": "26 Décembre 2020"
       }
     ]
   }
