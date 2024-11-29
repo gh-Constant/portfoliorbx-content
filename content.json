@@ -131,7 +131,7 @@
     ],
     "projects": [
       {
-        "title": "Horizon Blanc",
+        "title": "White Horizon",
         "description": "Un jeu d'aventure monochromatique dans un monde en noir et blanc saisissant. Les joueurs naviguent à travers des paysages minimalistes en utilisant des mécaniques de mouvement dynamiques incluant grappins, systèmes de vol et tremplins.",
         "media": {
           "type": "image",
@@ -142,7 +142,7 @@
         "creator": "Jawaw"
       },
       {
-        "title": "Royaumes d'Améthyste",
+        "title": "Amethyst Realms",
         "description": "Un MMORPG immersif avec un combat PvP full-loot, où les joueurs se battent pour la suprématie dans un monde dangereux rempli de ressources précieuses et d'artefacts puissants.",
         "media": {
           "type": "image",
@@ -153,7 +153,7 @@
         "creator": "Moi-même"
       },
       {
-        "title": "Naruto JdR",
+        "title": "Naruto RP",
         "description": "Une expérience de jeu de rôle immersive dans l'univers de Naruto, où les joueurs peuvent s'entraîner, combattre et vivre leur voie du ninja.",
         "media": {
           "type": "image",
