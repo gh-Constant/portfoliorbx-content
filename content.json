@@ -1,4 +1,5 @@
 {
+  "en": {
     "systems": [
       {
         "title": "Grappling Hook System",
@@ -80,4 +81,88 @@
         "creator": "Joyboy"
       }
     ]
-  } 
+  },
+  "fr": {
+    "systems": [
+      {
+        "title": "Système de Grappin",
+        "description": "Un système de grappin basé sur la physique permettant aux joueurs de se balancer, de tirer et de traverser l'environnement de manière dynamique.",
+        "features": [
+          "Mécanique de corde basée sur la physique",
+          "Points d'attache multiples",
+          "Conservation de l'élan",
+          "Longueur de corde ajustable"
+        ],
+        "image": "https://images.unsplash.com/photo-1534120247760-c44c3e4a62f1?w=800&auto=format&fit=crop&q=60"
+      },
+      {
+        "title": "Système de Vol",
+        "description": "Un système de vol polyvalent avec des contrôles fluides et des capacités de mouvement dynamiques.",
+        "features": [
+          "Vitesse de vol ajustable",
+          "Limitations de hauteur",
+          "Gestion de l'énergie",
+          "Transitions fluides"
+        ],
+        "image": "https://images.unsplash.com/photo-1517960413843-0aee8e2b3285?w=800&auto=format&fit=crop&q=60"
+      },
+      {
+        "title": "Système de Tremplin",
+        "description": "Un système de tremplin interactif qui propulse les joueurs avec un contrôle précis et des trajectoires prévisibles.",
+        "features": [
+          "Force de lancement personnalisable",
+          "Contrôle de direction",
+          "Prédiction d'atterrissage",
+          "Support de sauts en chaîne"
+        ],
+        "image": "https://images.unsplash.com/photo-1599586120429-48281b6f0ece?w=800&auto=format&fit=crop&q=60"
+      },
+      {
+        "title": "Système de Pêche",
+        "description": "Un système de pêche complet avec des mécaniques réalistes et des éléments de gameplay engageants.",
+        "features": [
+          "Comportement dynamique des poissons",
+          "Zones de pêche multiples",
+          "Système de rareté",
+          "Effets météorologiques"
+        ],
+        "image": "https://images.unsplash.com/photo-1516992654410-9309d4587e94?w=800&auto=format&fit=crop&q=60"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Horizon Blanc",
+        "description": "Un jeu d'aventure monochromatique dans un monde en noir et blanc saisissant. Les joueurs naviguent à travers des paysages minimalistes en utilisant des mécaniques de mouvement dynamiques incluant grappins, systèmes de vol et tremplins.",
+        "media": {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1482160549825-59d1b23cb208?w=800&auto=format&fit=crop&q=60"
+        },
+        "tags": ["Roblox", "Systèmes de Mouvement", "Design Minimaliste", "Physique"],
+        "link": "https://www.roblox.com/games/example1",
+        "creator": "Jawaw"
+      },
+      {
+        "title": "Royaumes d'Améthyste",
+        "description": "Un MMORPG immersif avec un combat PvP full-loot, où les joueurs se battent pour la suprématie dans un monde dangereux rempli de ressources précieuses et d'artefacts puissants.",
+        "media": {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1518562180175-34a163b1a9a6?w=800&auto=format&fit=crop&q=60"
+        },
+        "tags": ["Roblox", "MMORPG", "JcJ", "Butin Intégral", "Combat"],
+        "link": "https://www.roblox.com/games/example2",
+        "creator": "Moi-même"
+      },
+      {
+        "title": "Naruto JdR",
+        "description": "Une expérience de jeu de rôle immersive dans l'univers de Naruto, où les joueurs peuvent s'entraîner, combattre et vivre leur voie du ninja.",
+        "media": {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1578269174936-2709b6aeb913?w=800&auto=format&fit=crop&q=60"
+        },
+        "tags": ["Roblox", "Jeu de Rôle", "Anime", "Combat", "Ninja"],
+        "link": "https://www.roblox.com/games/example3",
+        "creator": "Joyboy"
+      }
+    ]
+  }
+} 
