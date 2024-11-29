@@ -158,7 +158,8 @@
         },
         "tags": ["Roblox", "Systèmes de Mouvement", "Design Minimaliste", "Physique"],
         "link": "https://www.roblox.com/games/example1",
-        "creator": "Jawaw"
+        "creator": "Jawaw",
+        "projectDate": "2024"
       },
       {
         "title": "Amethyst Realms",
@@ -169,7 +170,8 @@
         },
         "tags": ["Roblox", "MMORPG", "JcJ", "Butin Intégral", "Combat"],
         "link": "https://www.roblox.com/games/example2",
-        "creator": "Moi-même"
+        "creator": "Moi-même",
+        "projectDate": "2024"
       },
       {
         "title": "Naruto RP",
@@ -180,7 +182,8 @@
         },
         "tags": ["Roblox", "Jeu de Rôle", "Anime", "Combat", "Ninja"],
         "link": "https://www.roblox.com/games/example3",
-        "creator": "Joyboy"
+        "creator": "Joyboy",
+        "projectDate": "2024"
       },
       {
         "title": "Potions Legend",
@@ -191,7 +194,8 @@
         },
         "tags": ["Roblox", "Simulateur", "Familiers", "Artisanat", "Magie"],
         "link": "https://www.roblox.com/games/5852058538/UPDATE-0-1-Potions-Legends",
-        "creator": "Moi-même"
+        "creator": "Moi-même",
+        "projectDate": "26 Décembre 2020"
       }
     ]
   }
